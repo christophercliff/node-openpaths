@@ -1,0 +1,14 @@
+{
+    "name": "openpaths",
+    "desciption": "A Node client for OpenPaths.cc.",
+    "version": "0.0.1",
+    "author": {
+        "name": "Christopher Cliff",
+        "url": "http://christophercliff.com"
+    },
+    "main": "./main",
+    "dependencies": {
+        "oauth": "*",
+        "querystring": "*"
+    }
+}
