@@ -8,11 +8,3 @@ openPaths.getLocations(function(error, data, response){
     console.log(data);
     
 });
-
-openPaths.getLocations({
-    num_points: 1
-}, function(error, data, response){
-    
-    console.log(data);
-    
-});
